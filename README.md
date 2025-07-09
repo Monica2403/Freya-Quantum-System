@@ -1,7 +1,7 @@
 # 🌟 FREYA: Quantum-Enhanced Predictive Maintenance System
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6cnAwNTVwYm1sZjhzdWZrdWxpbXpjMTQ4bHE4ZWx0amEwdWllYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" width="100" alt="FREYA Logo" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6cnAwNTVwYm1sZjhzdWZrdWxpbXpjMTQ4bHE4ZWx0amEwdWllYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" width="200" alt="FREYA Logo" />
 </p>
 
 ---
